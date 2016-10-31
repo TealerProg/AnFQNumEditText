@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="anfq_deep_gray_text_color">#cccccc</color>
+    <color name="anfq_gray_text_color">#888888</color>
+    <color name="global_transparent_color">#fff</color>
+    <color name="global_dark_color">#017CAD</color>
+</resources>

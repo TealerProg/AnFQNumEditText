@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--自定义EditText实现右下角计数控件的（自定义属性） -->
+    <declare-styleable name="AnFQNumEditText">
+        <attr name="textHint" format="string"></attr><!-- editText默认提示文字 -->
+        <attr name="textColorHint" format="color"></attr><!-- editText默认提示文字的颜色 -->
+        <attr name="AnFQTextColor"  format="color"></attr><!-- editText字体颜色 -->
+        <attr name="AnFQTextSize" format="dimension"></attr><!-- editText的字体大小 -->
+        <attr name="textMaxLength" format="integer"></attr><!-- editText显示的最大字数 -->
+        <attr name="textBackground" format="color"></attr>
+        <attr name="lineColor" format="color"></attr><!-- 标记线的颜色 -->
+        <attr name="numTextPaddingRight" format="dimension"></attr><!--计数TextView的PaddingRight尺寸 -->
+        <attr name="numTextColor" format="color"></attr><!--计数TextView的字体颜色 -->
+        <attr name="numTextSize" format="color"></attr><!--计数TextView的字体大小 -->
+    </declare-styleable>
+</resources>

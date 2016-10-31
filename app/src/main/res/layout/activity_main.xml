@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:anfq="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_marginBottom="@dimen/dimens_dp_10"
+    android:background="@color/global_transparent_color"
+    android:layout_height="match_parent">
+
+    <anfq.numedittext.lib.AnFQNumEditText
+        android:id="@+id/anetDemo"
+        android:layout_marginTop="@dimen/dimens_dp_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        anfq:textHint="请输入内容（500字以内）"
+        anfq:textColorHint="@color/anfq_deep_gray_text_color"
+        anfq:AnFQTextColor="@color/anfq_gray_text_color"
+        anfq:AnFQTextSize="@dimen/dimens_sp_14"
+        anfq:textMaxLength="500"
+        anfq:lineColor="@color/global_dark_color"
+        anfq:numTextPaddingRight="@dimen/dimens_dp_10"
+        anfq:numTextColor="@color/anfq_deep_gray_text_color"
+        anfq:numTextSize="@dimen/dimens_sp_12"
+        >
+    </anfq.numedittext.lib.AnFQNumEditText>
+
+</RelativeLayout>
