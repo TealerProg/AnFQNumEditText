@@ -23,4 +23,5 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation project(':AnFQNumEditTextLib')
+//    implementation 'com.github.TealerProg:AnFQNumEditText:1.0.0'
 }
