@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnFQNumEditText.iml" filepath="$PROJECT_DIR$/.idea/modules/AnFQNumEditText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.iml" filepath="$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AnFQNumEditTextLib/AnFQNumEditText.AnFQNumEditTextLib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnFQNumEditText.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
